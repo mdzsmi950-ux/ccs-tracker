@@ -1,0 +1,81 @@
+{
+  "version": 27,
+  "asOf": "2026-08-08",
+  "items": [
+    {
+      "date": "2026-07-10",
+      "productContains": "Jo Malone Orange Marmalade Cologne",
+      "set": {"status": "Listed", "listPrice": 90},
+      "note": "Facebook Marketplace listing shown In Review on 2026-08-08; treated as Listed."
+    },
+    {
+      "date": "2026-07-10",
+      "productContains": "Jo Malone Little Greene Pomegranate Noir Scented Candle",
+      "set": {"status": "Listed"},
+      "note": "Facebook Marketplace listing shown Active on 2026-08-08."
+    },
+    {
+      "date": "2026-05-31",
+      "productContains": "Jo Malone Little Greene English Pear & Freesia Scented Candle",
+      "set": {"status": "Listed"},
+      "note": "Facebook Marketplace listing shown Active on 2026-08-08."
+    },
+    {
+      "date": "2026-05-01",
+      "productContains": "Tom Ford Noir Extreme Eau de Parfum",
+      "set": {
+        "product": "Tom Ford Noir Extreme Parfum",
+        "status": "Listed",
+        "retailPrice": 300,
+        "retailAuditStatus": "Confirmed current",
+        "retailAuditSource": "Tom Ford Beauty official",
+        "retailAuditUrl": "https://www.tomfordbeauty.com/products/noir-extreme-parfum",
+        "retailAuditNote": "Marketplace image identifies Parfum 100 mL / 3.4 fl oz. Tom Ford Beauty lists the 100 mL Noir Extreme Parfum at $300."
+      },
+      "note": "Facebook Marketplace listing shown Active on 2026-08-08; product identified there as Noir Extreme Parfum 3.4 fl oz / 100 mL."
+    },
+    {
+      "date": "2026-02-25",
+      "productContains": "Estée Lauder Re-Nutriv Ultimate Lift Regenerating Hydrating Youth Treatment Lotion",
+      "set": {"status": "Listed"},
+      "note": "Facebook Marketplace listing shown Active as 'Estee Lauder Toner Lotion' on 2026-08-08."
+    },
+    {
+      "date": "2026-02-25",
+      "productContains": "Jo Malone English Pear & Freesia Cologne",
+      "set": {"status": "Sold", "soldPrice": 40},
+      "note": "Marketplace screenshot shows the listing as Active, but the later known outcome is Sold for $40, so Sold is retained."
+    },
+    {
+      "date": "2026-02-25",
+      "productContains": "MAC Hyper Real Fresh Canvas Cream-to-Foam Cleanser",
+      "set": {"status": "Listed", "listPrice": 10},
+      "note": "Facebook Marketplace listing shown Active on 2026-08-08."
+    },
+    {
+      "date": "2026-01-28",
+      "productContains": "Estée Lauder Beautiful Belle Eau de Parfum",
+      "set": {"status": "Listed"},
+      "note": "Facebook Marketplace listing shown Active on 2026-08-08."
+    },
+    {
+      "date": "2025-08-14",
+      "productContains": "Estée Lauder Perfectly Clean Multi-Action Foam Cleanser/Purifying Mask",
+      "set": {"status": "Listed"},
+      "note": "Facebook Marketplace listing shown In Review on 2026-08-08. Another identical 5 fl oz unit exists in the 06/15/25 box; this listing is assigned to the 08/14/25 unit because the Marketplace screenshot does not distinguish source order."
+    }
+  ],
+  "unmatchedMarketplaceItems": [
+    {
+      "name": "Jo Malone Nectarine Blossom & Honey 3.4 fl oz",
+      "status": "Listed",
+      "marketplaceStatus": "Active",
+      "reason": "No exact product row currently exists in the CCS tracker, so it is not assigned to an order without evidence."
+    }
+  ],
+  "ignoredNonCCSItems": [
+    "Tatcha The Matcha Cleanse 5 fl oz",
+    "Rare Beauty Body Lotion 8.45 fl oz",
+    "Drunk Elephant Lala Retro Whipped Cream"
+  ]
+}
